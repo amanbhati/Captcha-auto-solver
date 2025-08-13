@@ -1,0 +1,1 @@
+# Captcha-auto-solver
